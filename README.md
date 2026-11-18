@@ -125,4 +125,4 @@ OpenAPI docs at `/api/docs`. Main endpoints: `POST /api/intake/form`, `POST /api
 
 ## License
 
-No open-source license has been selected yet. Until the owner chooses one, no redistribution license is granted. Dependency licenses remain their own.
+This repository is released under the MIT License. See [LICENSE](LICENSE). Dependency licenses remain their own.
