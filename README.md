@@ -8,7 +8,7 @@ A local web app that handles inbound B2B leads from first form submission to a h
 
 ## Demo video
 
-[docs/demo/inbound-lead-agent-demo.mp4](docs/demo/inbound-lead-agent-demo.mp4) (about 5.5 minutes, English narration, narrated walkthrough of the running app). It marks clearly what runs now (offline simulation) and what is only a plan for your own setup. The Facts and Handoff close-up near 1:53 uses a simplified single-column layout (captioned in the video); the real app shows it in two columns, as in the screenshots.
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=NXz29a6tOLY) (about 5.5 minutes, English narration, narrated walkthrough of the running app). It marks clearly what runs now (offline simulation) and what is only a plan for your own setup. The Facts and Handoff close-up near 1:53 uses a simplified single-column layout (captioned in the video); the real app shows it in two columns, as in the screenshots.
 
 ## The problem
 
